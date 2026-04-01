@@ -5,7 +5,7 @@ Sigue estos pasos para poner en marcha el programa:
 ### 1. Clonar el repositorio
 ```bash
 git clone git@github.com:zumodevidrio/ia-probador-ropa.git
-cd ia-probador-ropa
+cd ia-probador-ropa```
 
 ### 2. Crear y activar el entorno virtual
 ```python3 -m venv venv
